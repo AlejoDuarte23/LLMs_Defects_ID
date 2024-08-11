@@ -1,0 +1,50 @@
+{
+    "GOPR0111": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "Visible rust and corrosion on the steel structure."
+    },
+    "GOPR0116": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "Visible rust and corrosion on the steel beams and joints."
+    },
+    "GOPR0269": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "Visible rust and corrosion on the steel beam and stiffeners of a structure, likely a bridge over water."
+    },
+    "GOPR0281": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible rust and corrosion, particularly at the connection points and along the lower flange."
+    },
+    "GOPR0282": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "Visible corrosion on the steel beam and connection plate, with rust and paint degradation."
+    },
+    "GOPR1596-0004": {
+        "defect_label": "Deformation",
+        "material": "Steel",
+        "defect_rating": "Minor",
+        "description": "The image shows a conveyor system with potential minor deformation, but no clear visible defects are observed."
+    },
+    "GOPR1596-0009": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Minor",
+        "description": "Visible corrosion on the steel structure, with rust and discoloration present."
+    },
+    "GOPR1630-0001": {
+        "defect_label": "Deformation",
+        "material": "Steel",
+        "defect_rating": "Major",
+        "description": "The image shows a steel structure with significant deformation, likely due to a structural failure or damage."
+    }
+}

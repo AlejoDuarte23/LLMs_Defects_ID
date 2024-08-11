@@ -1,0 +1,98 @@
+{
+    "GOPR0111": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible corrosion on the surface, indicating a moderate level of deterioration."
+    },
+    "GOPR0116": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows visible cracks in the concrete structure."
+    },
+    "GOPR0201": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows visible cracks in the concrete structure."
+    },
+    "GOPR0268": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a concrete structure with visible corrosion on the surface, likely due to exposure to moisture or chemicals. The defect rating is minor as it does not appear to be widespread or severe."
+    },
+    "GOPR0269": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible cracks."
+    },
+    "GOPR0270": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible cracks."
+    },
+    "GOPR0274": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows visible cracks in the concrete structure."
+    },
+    "GOPR0277": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a concrete structure with visible corrosion on the surface, which is likely due to exposure to moisture and oxygen over time. The defect rating would be classified as minor as it does not appear to be extensive or severe."
+    },
+    "GOPR0281": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a concrete structure with visible corrosion on the surface, which is likely due to exposure to moisture or chemicals. The defect rating is minor as it does not appear to be widespread or severe."
+    },
+    "GOPR0282": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible corrosion on the surface, which is indicative of a moderate structural defect."
+    },
+    "GOPR0283": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a concrete structure with visible signs of corrosion on the surface, which indicates a minor structural defect."
+    },
+    "GOPR0335": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible cracks."
+    },
+    "GOPR0337": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a concrete structure with visible corrosion on the surface, which is likely due to exposure to moisture and chemicals. The defect rating is minor as it does not appear to be widespread or severe."
+    },
+    "GOPR1596-0004": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible signs of corrosion, which is indicated by the rusty appearance on the surface. The defect rating would be considered as moderate based on the extent and severity of the corrosion present."
+    },
+    "GOPR1596-0009": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible corrosion on the surface, indicating a moderate level of deterioration."
+    },
+    "GOPR1630-0001": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "Corroded metal beam in concrete structure."
+    }
+}

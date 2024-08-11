@@ -1,0 +1,92 @@
+{
+    "GOPR0111": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "A crack on the concrete surface."
+    },
+    "GOPR0116": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "Rust on the steel beam."
+    },
+    "GOPR0268": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": null
+    },
+    "GOPR0269": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "A crack in the concrete surface."
+    },
+    "GOPR0270": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Minor",
+        "description": null
+    },
+    "GOPR0274": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "A crack in the concrete surface."
+    },
+    "GOPR0277": {
+        "defect_label": "Spalling",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "A crack in the concrete surface."
+    },
+    "GOPR0281": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "Rust on the concrete surface."
+    },
+    "GOPR0282": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": null
+    },
+    "GOPR0283": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": null
+    },
+    "GOPR0335": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "Rust on the metal beam."
+    },
+    "GOPR0337": {
+        "defect_label": "Spalling",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "A crack in the concrete surface."
+    },
+    "GOPR1596-0004": {
+        "defect_label": "Spalling",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "A crack in the concrete surface."
+    },
+    "GOPR1596-0009": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": null
+    },
+    "GOPR1630-0001": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": null
+    }
+}

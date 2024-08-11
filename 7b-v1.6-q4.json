@@ -1,0 +1,92 @@
+{
+    "GOPR0111": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel structure with visible corrosion on the surface."
+    },
+    "GOPR0116": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a corroded steel rebar in the concrete, which is a minor defect."
+    },
+    "GOPR0268": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "There are visible cracks in the concrete structure."
+    },
+    "GOPR0269": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel structure with visible corrosion on the surface."
+    },
+    "GOPR0270": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible corrosion on its surface."
+    },
+    "GOPR0274": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a structural defect in the steel, which appears to be corroded."
+    },
+    "GOPR0277": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a structural defect in the concrete, specifically corrosion. The material is concrete and the defect rating is moderate."
+    },
+    "GOPR0281": {
+        "defect_label": "Deformation",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a deformation in the concrete structure, which is likely due to shrinkage or thermal expansion and contraction. The defect appears to be minor and does not pose an immediate risk to the structural integrity of the building."
+    },
+    "GOPR0282": {
+        "defect_label": "Deformation",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible deformation, which is likely due to the application of external forces or stresses. The defect appears to be moderate in severity and may require repair or reinforcement to ensure structural integrity."
+    },
+    "GOPR0283": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel structure with visible corrosion on the surface."
+    },
+    "GOPR0335": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a corroded steel rebar in the concrete, which is a structural defect."
+    },
+    "GOPR0337": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows corrosion on the steel rebar in a concrete structure."
+    },
+    "GOPR1596-0004": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible corrosion on its surface."
+    },
+    "GOPR1596-0009": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "The image shows a concrete structure with visible corrosion on the steel reinforcement."
+    },
+    "GOPR1630-0001": {
+        "defect_label": "Corrosion",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "The image shows a concrete structure with visible corrosion on the steel reinforcement."
+    }
+}

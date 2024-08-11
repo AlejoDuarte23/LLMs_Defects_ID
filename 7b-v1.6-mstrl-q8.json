@@ -1,0 +1,92 @@
+{
+    "GOPR0111": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible signs of corrosion, which is a structural defect that can weaken the material and compromise its integrity. The presence of rust indicates exposure to moisture and oxygen, which are common causes of corrosion in metallic structures. This defect would require further investigation to assess its severity and potential impact on the structure's performance."
+    },
+    "GOPR0116": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible corrosion on its surface."
+    },
+    "GOPR0268": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "Cracks in the concrete structure"
+    },
+    "GOPR0269": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "Small cracks in the concrete surface."
+    },
+    "GOPR0270": {
+        "defect_label": "Cracks",
+        "material": "Concrete",
+        "defect_rating": "Minor",
+        "description": "Thin cracks in the concrete surface"
+    },
+    "GOPR0274": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "Rust on the surface of the metal beam."
+    },
+    "GOPR0277": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible corrosion on its surface."
+    },
+    "GOPR0281": {
+        "defect_label": "Spalling",
+        "material": "Concrete",
+        "defect_rating": "Moderate",
+        "description": "Crack in the concrete with spalling"
+    },
+    "GOPR0282": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel structure with visible corrosion on the surface."
+    },
+    "GOPR0283": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel structure with visible corrosion on the surface."
+    },
+    "GOPR0335": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible corrosion on its surface."
+    },
+    "GOPR0337": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "Rust on the surface of the metal structure"
+    },
+    "GOPR1596-0004": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible signs of corrosion, such as rust and discoloration."
+    },
+    "GOPR1596-0009": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel structure with visible corrosion on the surface, indicating moderate structural damage."
+    },
+    "GOPR1630-0001": {
+        "defect_label": "Corrosion",
+        "material": "Steel",
+        "defect_rating": "Moderate",
+        "description": "The image shows a steel beam with visible corrosion on the surface."
+    }
+}
